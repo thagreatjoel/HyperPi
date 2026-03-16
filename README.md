@@ -5,7 +5,7 @@ This project was created as part of Stasis, a hardware event by Hack Club.
 
 Stasis: https://stasis.hackclub.com
 
-The goal of Seed Pi is to learn how a real computer is built — from the processor and RAM all the way to a working Linux system.
+The goal of Seed Pi is to learn how a real computer is built from the processor and RAM all the way to a working Linux system.
 
 ![image1](https://raw.githubusercontent.com/thagreatjoel/SeedPi/refs/heads/main/img/seedpi.jpg)
 
