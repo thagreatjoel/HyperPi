@@ -3,7 +3,10 @@
 The RK3308B processor is the foundation of the tiny Linux single-board computer known as the Seed Pi.
 This project was developed for Hack Club's hardware event, Stasis.
 
-Stasis: https://stasis.hackclub.com Learning how a real computer is constructed, from the processor and RAM to a functional Linux system, is the aim of Seed Pi
+Stasis: [Project Link](https://stasis.hackclub.com/dashboard/projects/cmmd944a800dw01y33b0hdz04)
+
+Learning how a real computer is constructed, from the processor and RAM to a functional Linux system, is the aim of Seed Pi
+
 ![image1](https://raw.githubusercontent.com/thagreatjoel/SeedPi/refs/heads/main/img/Finished%20PCB.png)
 ![image2](https://raw.githubusercontent.com/thagreatjoel/SeedPi/refs/heads/main/img/PCBBACK.png)
 ---
