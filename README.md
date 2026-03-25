@@ -1,4 +1,4 @@
-#Seed Pi 🌱
+## Seed Pi 🌱
 
 The RK3308B processor is the foundation of the tiny Linux single-board computer known as the Seed Pi.
 This project was developed for Hack Club's hardware event, Stasis.
@@ -39,9 +39,10 @@ The RK3308B processor, Samsung K4B4G1646E DDR3 RAM, RTL8723DS WiFi + Bluetooth, 
 CPU: Rockchip RK3308B (Quad-core Cortex-A35); RAM: DDR3 Wireless: Bluetooth and WiFi (RTL8723DS) MicroSD card storage and USB Type-A UART (CH340C) debug 40-pin header for GPIO USB-C power (power only) OS: Linux (Debian/Armbian)
 
 
---- 
+---
 
 Present Situation The PCB design and schematic are presently being worked on. EasyEDA is being used to develop component placement and routing.
+
 ---
 
 ## Specs
